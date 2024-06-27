@@ -5,7 +5,7 @@ ORDER BY 3,4
 
 --SELECT *
 --FROM [Project Portfolio].dbo.CovidVaccinations
---ORDER BY 3,4YIYNBVBKKL
+--ORDER BY 3,4
 
 
 --Select Data that we are going to be using
